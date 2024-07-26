@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Eleventy site generator project for my blog.",
 	"scripts": {
-		"build": "rm -r _site/ && npx @11ty/eleventy --pathprefix=/blog/",
+		"build": "rm -r _site/ || npx @11ty/eleventy --pathprefix=/blog/",
 		"start": "npx @11ty/eleventy --serve --quiet",
 		"debug": "DEBUG=Eleventy* npx @11ty/eleventy",
 		"debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
