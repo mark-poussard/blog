@@ -1,6 +1,6 @@
 # Blog site
 
-Using the (eleventy example setup project)[https://github.com/11ty/eleventy-base-blog] by (Zach Leatherman)[https://zachleat.com/] 
+Using the eleventy [example setup project](https://github.com/11ty/eleventy-base-blog) by [Zach Leatherman](https://zachleat.com/)
 
 ## Getting Started
 
